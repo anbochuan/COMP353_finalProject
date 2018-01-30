@@ -1,5 +1,5 @@
 # COMP353_finalProject
-Project Description
+# Project Description
 BSPC System is a web application our team design and implement. The system was
 created to organize the operational management for its patients. The system allows
 users to be of four different kinds: Patient, Doctor/Nurse, Therapist and Receptionist.
